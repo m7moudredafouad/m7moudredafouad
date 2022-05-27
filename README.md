@@ -1,9 +1,5 @@
-<h1 align="center">Hello 👋, I'm Mahmoud Reda Fouad</h1>
-<h3 align="center">A passionate junior software engineer</h3>
-
-- 🌱 I’m currently learning **Data structures, Algorithms**
-
-- 💬 Ask me about **C, C++, Python, Javascript, Data structures, Algorithms**
+<h1 align="center">Hi, I'm Mahmoud Reda Fouad</h1>
+<h3 align="center">I am a junior software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
